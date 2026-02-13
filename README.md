@@ -61,7 +61,7 @@ A **one-page website** for Print Printers - Citicap Channels with complete admin
 | | |
 |---|---|
 | **Investment** | ₹25,000 – ₹35,000 |
-| **Timeline** | 7–10 Days |
+| **Timeline** | 10–16 Days |
 | **Includes** | Design + Development + Deployment |
 
 <br>
@@ -84,7 +84,7 @@ A **one-page website** for Print Printers - Citicap Channels with complete admin
 | | |
 |---|---|
 | **Investment** | ₹45,000 – ₹60,000 |
-| **Timeline** | 12–15 Days |
+| **Timeline** | 16–22 Days |
 | **Includes** | Design + Development + Deployment |
 
 <br>
@@ -106,7 +106,7 @@ A **one-page website** for Print Printers - Citicap Channels with complete admin
 | | |
 |---|---|
 | **Investment** | ₹75,000 – ₹1,10,000 |
-| **Timeline** | 18–21 Days |
+| **Timeline** | 22–30 Days |
 | **Includes** | Design + Development + Deployment |
 
 <br>
@@ -119,6 +119,10 @@ A **one-page website** for Print Printers - Citicap Channels with complete admin
 - 🚀 Blog/News CMS
 - 🚀 Advanced analytics dashboard
 - 🚀 30 days post-launch support
+
+<br>
+
+> 💡 **Quality takes time** - We don't rush. Each project gets the attention it deserves to deliver a professional, bug-free website that truly represents your brand.
 
 <br>
 <br>
@@ -158,8 +162,8 @@ We can integrate a chatbot using third-party tools. Here's what's available:
 
 <br>
 
-| Tool | Type | Free Plan | Paid Plan (₹/Month) | Best For |
-|------|------|-----------|---------------------|----------|
+| Tool | Type | Free Plan | Paid Plan (Approx ₹ / Month) | Best For |
+|------|------|-----------|-------------------------------|----------|
 | **Crisp** | Live Chat | ✅ Yes | ₹2,000 – ₹2,500 | Basic support & startups |
 | **Tidio** | Live Chat + Basic Bot | ✅ Yes | ₹2,000 – ₹3,000 | Small business websites |
 | **HubSpot** | Chat + CRM | ✅ Yes | ₹3,000 – ₹8,000 | Lead capture & CRM |
@@ -206,10 +210,14 @@ Modern, fast, and scalable technology.
 
 | Phase | Activities | Duration |
 |-------|-----------|----------|
-| **1. Design** | UI/UX mockups, wireframes, design approval | 2-3 days |
-| **2. Development** | Frontend coding, backend setup, admin panel | 4-10 days |
-| **3. Testing** | Bug fixes, cross-browser testing, mobile testing | 1-2 days |
-| **4. Deployment** | AWS setup, domain config, SSL, go-live | 1 day |
+| **1. Design** | UI/UX mockups, wireframes, design approval | 3-5 days |
+| **2. Development** | Frontend coding, backend setup, admin panel | 5-18 days |
+| **3. Testing** | Bug fixes, cross-browser testing, mobile testing | 2-4 days |
+| **4. Deployment** | AWS setup, domain config, SSL, go-live | 1-2 days |
+
+<br>
+
+> **We take time to build quality** - Good things can't be rushed. Each phase is carefully executed to deliver a professional website.
 
 <br>
 
@@ -364,7 +372,7 @@ Freelance Web Developer
 
 | Contact | Details |
 |---------|---------|
-| 📧 **Email** | abhishkreact.dev@gmail.com |
+| 📧 **Email** | abhishekreact.dev@gmail.com |
 | 📱 **Phone** | +91 8928862682 |
 | ⏰ **Available** | Mon-Sat, 10 AM - 7 PM IST |
 
@@ -408,7 +416,7 @@ Freelance Web Developer
 
 <br>
 
-[📧 Send Email](mailto:abhishkreact.dev@gmail.com) | [📱 Call Now](tel:+918928862682)
+[📧 Send Email](mailto:abhishekreact.dev@gmail.com) | [📱 Call Now](tel:+918928862682)
 
 <br>
 <br>
