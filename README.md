@@ -5,6 +5,21 @@
 
 <br>
 
+> ### 🎯 **Your Requirement**
+> 
+> **One-pager clickable website with admin access so that you can make changes yourself**
+> 
+> ✅ Single-page website with smooth navigation  
+> ✅ Complete admin panel for self-management  
+> ✅ No developer needed for updates  
+> ✅ Full control over content, images, and products
+
+<br>
+
+---
+
+<br>
+
 ## 📋 About This Project
 
 A **one-page website** for Print Printers - Citicap Channels with complete admin control and AI chatbot to showcase **30+ years of printing excellence** to global clients.
