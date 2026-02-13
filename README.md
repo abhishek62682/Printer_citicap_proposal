@@ -288,6 +288,10 @@ Modern, fast, and scalable technology.
 
 <br>
 
+> ⚠️ **Important:** Development will only start once you are fully satisfied with the design. We don't proceed to coding until you approve the design mockups.
+
+<br>
+
 ### You'll Receive:
 - ✅ Design mockups for approval before coding starts
 - ✅ Regular progress updates during development
@@ -316,8 +320,12 @@ Modern, fast, and scalable technology.
 
 **Each payment unlocks the next phase:**
 1. First payment → Design phase begins
-2. Second payment → Development phase begins
+2. Second payment → **Development starts (only after you're satisfied with design)**
 3. Final payment → Website goes live
+
+<br>
+
+> 💡 **Your satisfaction matters:** We only move to development after you approve the design. No coding starts until you're 100% happy with how it looks.
 
 <br>
 
