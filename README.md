@@ -59,6 +59,7 @@ A **one-page website** for Print Printers - Citicap Channels with complete admin
 
 | Aspect | Details |
 |--------|---------|
+| **Background** | Full-stack web developer with industry experience, now building my own client base |
 | **Specialization** | React.js, Next.js, and modern web technologies |
 | **Approach** | Clean code, mobile-first design, SEO-focused |
 | **Service** | Complete design to deployment - all in one |
