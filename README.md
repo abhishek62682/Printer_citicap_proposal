@@ -61,7 +61,7 @@ Based on your needs, here's what we'll deliver:
 
 <br>
 
-### Typical One-Page Website Structure (7 Sections):
+### Typical One-Page Website Structure (Up to 7 Sections):
 
 1. **Hero Section** - Eye-catching banner with your main message
 2. **About Us** - Company story and 30+ years of excellence
@@ -70,6 +70,8 @@ Based on your needs, here's what we'll deliver:
 5. **Client Testimonials** - Reviews from satisfied customers
 6. **Gallery/Portfolio** - Showcase your work
 7. **Contact Form** - Easy way for customers to reach you
+
+> **Note:** Depending on your requirements, we can add more sections as needed.
 
 <br>
 <br>
