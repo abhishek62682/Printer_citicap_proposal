@@ -71,8 +71,6 @@ Based on your needs, here's what we'll deliver:
 6. **Gallery/Portfolio** - Showcase your work
 7. **Contact Form** - Easy way for customers to reach you
 
-*All sections are fully customizable through your admin panel*
-
 <br>
 <br>
 
