@@ -35,31 +35,6 @@ A **one-page website** for Print Printers - Citicap Channels with complete admin
 - ✅ SEO optimization & Google Analytics
 
 <br>
-<br>
-
----
-
-## 📝 Project Requirements
-
-<br>
-
-Based on your needs, here's what we'll deliver:
-
-<br>
-
-| Requirement | Solution |
-|-------------|----------|
-| **One-pager website** | Single-page website with smooth scrolling sections |
-| **Clickable & Interactive** | Fully functional buttons, forms, and navigation |
-| **Admin Access** | Complete admin panel to make changes yourself |
-| **Self-manageable** | Edit text, images, products without technical knowledge |
-| **Real-time Updates** | Changes reflect immediately on the live website |
-
-<br>
-
-> ✨ **You'll have full control** - Update your website anytime, anywhere, without calling a developer!
-
-<br>
 
 ### Typical One-Page Website Structure (Up to 7 Sections):
 
@@ -84,7 +59,6 @@ Based on your needs, here's what we'll deliver:
 
 | Aspect | Details |
 |--------|---------|
-| **Experience** | 1+ year in modern web development |
 | **Specialization** | React.js, Next.js, and modern web technologies |
 | **Approach** | Clean code, mobile-first design, SEO-focused |
 | **Service** | Complete design to deployment - all in one |
@@ -121,7 +95,7 @@ Based on your needs, here's what we'll deliver:
 <br>
 
 **Features:**
-- **One-page clickable website** (7 sections)
+- **One-page clickable website** (up to 7 sections)
 - **Complete admin panel** - Make changes yourself
 - Custom UI design
 - Contact form with email integration
